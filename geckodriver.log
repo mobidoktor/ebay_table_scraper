@@ -1,0 +1,894 @@
+1508176346061	geckodriver	INFO	Listening on 127.0.0.1:35879
+1508176347167	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508176347369	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508176348071	Marionette	INFO	Enabled via --marionette
+1508176350798	Marionette	INFO	Listening on port 37788
+1508176350891	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508176350944	Marionette	DEBUG	Register listener.js for window 2147483649
+1508176350970	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508176351761	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508176351762	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508176353533	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508176353920	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508176354260	Marionette	INFO	New connections will no longer be accepted
+1508176360058	geckodriver	INFO	Listening on 127.0.0.1:44781
+1508176361111	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508176361317	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508176362067	Marionette	INFO	Enabled via --marionette
+1508176364636	Marionette	INFO	Listening on port 36181
+1508176364732	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508176364781	Marionette	DEBUG	Register listener.js for window 2147483649
+1508176364808	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508176365576	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508176365577	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508176367515	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508176367902	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508176368007	Marionette	INFO	New connections will no longer be accepted
+1508176475346	geckodriver	INFO	Listening on 127.0.0.1:58192
+1508176476402	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508176476598	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508176477228	Marionette	INFO	Enabled via --marionette
+1508176479794	Marionette	INFO	Listening on port 35804
+1508176479820	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508176479886	Marionette	DEBUG	Register listener.js for window 2147483649
+1508176479933	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508176480682	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508176480682	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508176482311	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508176482736	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508176482990	Marionette	INFO	New connections will no longer be accepted
+[Child 15467] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15467] WARNING: pipe error (22): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15467] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1508176697580	geckodriver	INFO	Listening on 127.0.0.1:38870
+1508176698637	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508176698864	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508176699525	Marionette	INFO	Enabled via --marionette
+1508176702178	Marionette	INFO	Listening on port 37502
+1508176702265	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508176702317	Marionette	DEBUG	Register listener.js for window 2147483649
+1508176702345	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508176703067	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508176703067	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508176705018	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508176705497	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508176705756	Marionette	INFO	New connections will no longer be accepted
+[Child 15763] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1508176851834	geckodriver	INFO	Listening on 127.0.0.1:51523
+1508176852912	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508176853123	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508176853824	Marionette	INFO	Enabled via --marionette
+1508176856365	Marionette	INFO	Listening on port 45740
+1508176856523	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508176856579	Marionette	DEBUG	Register listener.js for window 2147483649
+1508176856629	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508176857540	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508176857540	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508176859204	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508176859599	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508176859740	Marionette	INFO	New connections will no longer be accepted
+1508176910676	geckodriver	INFO	Listening on 127.0.0.1:58178
+1508176911733	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508176911931	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508176912554	Marionette	INFO	Enabled via --marionette
+1508176915177	Marionette	INFO	Listening on port 37528
+1508176915328	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508176915390	Marionette	DEBUG	Register listener.js for window 2147483649
+1508176915438	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508176916148	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508176916149	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508176917999	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508176918559	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508176918674	Marionette	INFO	New connections will no longer be accepted
+[Child 16465] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 16465] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 16465] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1508177261319	geckodriver	INFO	Listening on 127.0.0.1:60262
+1508177262387	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508177262734	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508177263627	Marionette	INFO	Enabled via --marionette
+1508177266754	Marionette	INFO	Listening on port 42292
+1508177266820	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508177266878	Marionette	DEBUG	Register listener.js for window 2147483649
+1508177266909	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508177267625	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508177267626	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508177269938	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508177274679	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508177274970	Marionette	INFO	New connections will no longer be accepted
+[Child 17136] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 17136] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1508178306044	geckodriver	INFO	Listening on 127.0.0.1:39651
+1508178307142	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508178307343	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508178307939	Marionette	INFO	Enabled via --marionette
+1508178310591	Marionette	INFO	Listening on port 38685
+1508178310670	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508178310717	Marionette	DEBUG	Register listener.js for window 2147483649
+1508178310738	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508178311648	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508178311648	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508178313569	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508178318115	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508178318394	Marionette	INFO	New connections will no longer be accepted
+[Child 18574] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 18574] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 18574] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1508178370973	geckodriver	INFO	Listening on 127.0.0.1:42262
+1508178372086	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508178372410	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508178373096	Marionette	INFO	Enabled via --marionette
+1508178375788	Marionette	INFO	Listening on port 34777
+1508178375821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508178375894	Marionette	DEBUG	Register listener.js for window 2147483649
+1508178375943	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508178376670	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508178376670	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508178378766	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508178383425	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508178383679	Marionette	INFO	New connections will no longer be accepted
+1508178461455	geckodriver	INFO	Listening on 127.0.0.1:43425
+1508178462510	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508178462716	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508178463369	Marionette	INFO	Enabled via --marionette
+1508178465873	Marionette	INFO	Listening on port 43342
+1508178465942	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508178465996	Marionette	DEBUG	Register listener.js for window 2147483649
+1508178466105	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508178466889	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508178466890	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508178468981	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508178473400	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508178473584	Marionette	INFO	New connections will no longer be accepted
+[Child 18907] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 18907] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1508178609189	geckodriver	INFO	Listening on 127.0.0.1:35035
+1508178610260	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508178610464	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508178611122	Marionette	INFO	Enabled via --marionette
+1508178613675	Marionette	INFO	Listening on port 39982
+1508178613857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508178613916	Marionette	DEBUG	Register listener.js for window 2147483649
+1508178613946	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508178614634	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508178614635	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508178616752	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508178622406	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508178622640	Marionette	INFO	New connections will no longer be accepted
+[Child 19518] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1508178675065	geckodriver	INFO	Listening on 127.0.0.1:48834
+1508178676130	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508178676354	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508178677038	Marionette	INFO	Enabled via --marionette
+1508178679547	Marionette	INFO	Listening on port 41805
+1508178679738	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508178679799	Marionette	DEBUG	Register listener.js for window 2147483649
+1508178679830	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508178680565	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508178680566	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508178682525	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508178682972	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508178683342	Marionette	INFO	New connections will no longer be accepted
+1508178721272	geckodriver	INFO	Listening on 127.0.0.1:54785
+1508178722331	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508178722531	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508178723190	Marionette	INFO	Enabled via --marionette
+1508178725809	Marionette	INFO	Listening on port 44692
+1508178725867	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508178725923	Marionette	DEBUG	Register listener.js for window 2147483649
+1508178725956	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508178726797	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508178726798	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508178728637	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508178733452	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508178733613	Marionette	INFO	New connections will no longer be accepted
+[Child 19901] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 19901] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 19901] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1508179085559	geckodriver	INFO	Listening on 127.0.0.1:33816
+1508179086614	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508179086814	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508179087384	Marionette	INFO	Enabled via --marionette
+1508179089988	Marionette	INFO	Listening on port 45965
+1508179090037	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508179090092	Marionette	DEBUG	Register listener.js for window 2147483649
+1508179090125	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508179091273	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508179091273	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508179093058	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508179101986	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508179102231	Marionette	INFO	New connections will no longer be accepted
+[Child 20292] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 20292] WARNING: pipe error (22): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 20292] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1508179574028	geckodriver	INFO	Listening on 127.0.0.1:54671
+1508179575146	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508179575345	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508179576007	Marionette	INFO	Enabled via --marionette
+1508179578424	Marionette	INFO	Listening on port 33335
+1508179578525	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508179578579	Marionette	DEBUG	Register listener.js for window 2147483649
+1508179578635	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508179579410	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508179579410	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508179581119	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508179581490	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508179581615	Marionette	INFO	New connections will no longer be accepted
+1508179585397	geckodriver	INFO	Listening on 127.0.0.1:56898
+1508179586452	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508179586652	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508179587314	Marionette	INFO	Enabled via --marionette
+1508179590169	Marionette	INFO	Listening on port 46817
+1508179590271	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508179590314	Marionette	DEBUG	Register listener.js for window 2147483649
+1508179590338	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508179591007	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508179591008	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508179592857	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508179593282	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508179593385	Marionette	INFO	New connections will no longer be accepted
+[Child 20884] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 20884] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 20884] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 20884] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1508179594872	geckodriver	INFO	Listening on 127.0.0.1:42376
+1508179595987	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508179596185	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508179596843	Marionette	INFO	Enabled via --marionette
+1508179599516	Marionette	INFO	Listening on port 36699
+1508179599611	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508179599660	Marionette	DEBUG	Register listener.js for window 2147483649
+1508179599686	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508179600620	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508179600620	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508179602578	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508179602971	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508179603218	Marionette	INFO	New connections will no longer be accepted
+[Child 21010] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 21010] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 21010] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 21010] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1508179627059	geckodriver	INFO	Listening on 127.0.0.1:57938
+1508179628120	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508179628329	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508179629175	Marionette	INFO	Enabled via --marionette
+1508179632002	Marionette	INFO	Listening on port 35929
+1508179632057	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508179632116	Marionette	DEBUG	Register listener.js for window 2147483649
+1508179632165	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508179633002	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508179633002	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508179634902	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508179635237	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508179635630	Marionette	INFO	New connections will no longer be accepted
+[Child 21138] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 21138] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 21138] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 21138] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1508179937796	geckodriver	INFO	Listening on 127.0.0.1:39776
+1508179938914	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508179939114	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508179939789	Marionette	INFO	Enabled via --marionette
+1508179942321	Marionette	INFO	Listening on port 33108
+1508179942432	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508179942493	Marionette	DEBUG	Register listener.js for window 2147483649
+1508179942535	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508179943349	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508179943350	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508179945179	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508179949574	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508179949785	Marionette	INFO	New connections will no longer be accepted
+1508179961625	geckodriver	INFO	Listening on 127.0.0.1:47836
+1508179962742	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508179962943	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508179963565	Marionette	INFO	Enabled via --marionette
+1508179966204	Marionette	INFO	Listening on port 42242
+1508179966264	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508179966317	Marionette	DEBUG	Register listener.js for window 2147483649
+1508179966348	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508179967172	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508179967172	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508179969459	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508179974133	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508179974419	Marionette	INFO	New connections will no longer be accepted
+[Child 21618] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 21618] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1508179994548	geckodriver	INFO	Listening on 127.0.0.1:44095
+1508179995604	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508179995822	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508179996450	Marionette	INFO	Enabled via --marionette
+1508179999087	Marionette	INFO	Listening on port 44857
+1508179999137	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508179999190	Marionette	DEBUG	Register listener.js for window 2147483649
+1508179999230	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508180000027	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508180000028	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508180001799	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508180006542	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508180006788	Marionette	INFO	New connections will no longer be accepted
+[Child 21793] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 21793] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 21793] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 21793] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1508180228751	geckodriver	INFO	Listening on 127.0.0.1:40955
+1508180229820	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508180230035	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508180230834	Marionette	INFO	Enabled via --marionette
+1508180234664	Marionette	INFO	Listening on port 40468
+1508180234752	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508180234845	Marionette	DEBUG	Register listener.js for window 2147483649
+1508180234884	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508180235905	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508180235905	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508180238134	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508180247467	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508180247744	Marionette	INFO	New connections will no longer be accepted
+1508180258720	geckodriver	INFO	Listening on 127.0.0.1:41613
+1508180259778	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508180260012	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508180260678	Marionette	INFO	Enabled via --marionette
+1508180263437	Marionette	INFO	Listening on port 41671
+1508180263576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508180263629	Marionette	DEBUG	Register listener.js for window 2147483649
+1508180263676	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508180264412	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508180264412	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508180266923	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508180272650	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508180272909	Marionette	INFO	New connections will no longer be accepted
+[Child 22504] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22504] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22504] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1508180605701	geckodriver	INFO	Listening on 127.0.0.1:51629
+1508180606817	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508180607017	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508180607633	Marionette	INFO	Enabled via --marionette
+1508180610229	Marionette	INFO	Listening on port 44243
+1508180610366	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508180610431	Marionette	DEBUG	Register listener.js for window 2147483649
+1508180610460	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508180611429	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508180611430	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508180613855	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508180618078	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508180618329	Marionette	INFO	New connections will no longer be accepted
+[Child 22785] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22785] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1508180636720	geckodriver	INFO	Listening on 127.0.0.1:39377
+1508180637786	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508180637983	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508180638654	Marionette	INFO	Enabled via --marionette
+1508180641284	Marionette	INFO	Listening on port 45946
+1508180641309	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508180641374	Marionette	DEBUG	Register listener.js for window 2147483649
+1508180641419	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508180642293	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508180642293	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508180644004	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508180648366	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508180648610	Marionette	INFO	New connections will no longer be accepted
+1508180661939	geckodriver	INFO	Listening on 127.0.0.1:52880
+1508180663055	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508180663270	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508180664011	Marionette	INFO	Enabled via --marionette
+1508180666603	Marionette	INFO	Listening on port 45719
+1508180666745	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508180666808	Marionette	DEBUG	Register listener.js for window 2147483649
+1508180666849	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508180667681	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508180667681	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508180669743	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508180674473	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508180674651	Marionette	INFO	New connections will no longer be accepted
+1508180688420	geckodriver	INFO	Listening on 127.0.0.1:35612
+1508180689475	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508180689678	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508180690317	Marionette	INFO	Enabled via --marionette
+1508180692797	Marionette	INFO	Listening on port 33205
+1508180692900	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508180692952	Marionette	DEBUG	Register listener.js for window 2147483649
+1508180692978	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508180693669	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508180693670	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508180695697	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508180700103	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508180700370	Marionette	INFO	New connections will no longer be accepted
+1508180747565	geckodriver	INFO	Listening on 127.0.0.1:59452
+1508180748660	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508180748861	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508180749488	Marionette	INFO	Enabled via --marionette
+1508180752328	Marionette	INFO	Listening on port 38117
+1508180752390	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508180752445	Marionette	DEBUG	Register listener.js for window 2147483649
+1508180752487	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508180753297	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508180753298	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508180755263	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508180759774	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508180759915	Marionette	INFO	New connections will no longer be accepted
+1508180800492	geckodriver	INFO	Listening on 127.0.0.1:36452
+1508180801550	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508180801767	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508180802378	Marionette	INFO	Enabled via --marionette
+1508180805002	Marionette	INFO	Listening on port 45426
+1508180805072	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508180805128	Marionette	DEBUG	Register listener.js for window 2147483649
+1508180805159	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508180806399	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508180806399	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508180808305	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508180813120	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508180813280	Marionette	INFO	New connections will no longer be accepted
+[Child 23471] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 23471] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 23471] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 23471] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1508181169774	geckodriver	INFO	Listening on 127.0.0.1:56521
+1508181170847	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508181171062	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508181171720	Marionette	INFO	Enabled via --marionette
+1508181174249	Marionette	INFO	Listening on port 45252
+1508181174372	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508181174426	Marionette	DEBUG	Register listener.js for window 2147483649
+1508181174485	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508181175153	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508181175153	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508181177095	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508181181879	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508181182141	Marionette	INFO	New connections will no longer be accepted
+[Child 23974] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 23974] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 23974] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 23974] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1508181734868	geckodriver	INFO	Listening on 127.0.0.1:38949
+1508181735914	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508181736190	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508181736856	Marionette	INFO	Enabled via --marionette
+1508181739610	Marionette	INFO	Listening on port 40472
+1508181739668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508181739763	Marionette	DEBUG	Register listener.js for window 2147483649
+1508181739822	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508181740528	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508181740528	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508181742434	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508181746844	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508181747098	Marionette	INFO	New connections will no longer be accepted
+[Child 24713] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 24713] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1508181785547	geckodriver	INFO	Listening on 127.0.0.1:48931
+1508181786634	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508181786839	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508181787463	Marionette	INFO	Enabled via --marionette
+1508181790234	Marionette	INFO	Listening on port 41536
+1508181790351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508181790403	Marionette	DEBUG	Register listener.js for window 2147483649
+1508181790436	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508181791134	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508181791135	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508181793414	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr"
+1508181794997	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1508181794997	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1508181794997	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+JavaScript error: http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr, line 1: TypeError: _plsubtInp.registerUnloadCallback is not a function
+1508181795026	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1508181795027	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1508181802031	geckodriver	INFO	Listening on 127.0.0.1:33880
+1508181803101	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508181803326	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508181804067	Marionette	INFO	Enabled via --marionette
+1508181807234	Marionette	INFO	Listening on port 46854
+1508181807328	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508181807369	Marionette	DEBUG	Register listener.js for window 2147483649
+1508181807384	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508181808332	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508181808333	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508181811737	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508181812529	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508181812985	Marionette	INFO	New connections will no longer be accepted
+[Child 24995] WARNING: pipe error: Broken pipe: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 24995] WARNING: pipe error: Broken pipe: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 24995] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 24995] WARNING: pipe error (17): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 24995] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1508182127589	geckodriver	INFO	Listening on 127.0.0.1:47206
+1508182128699	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508182128894	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508182129509	Marionette	INFO	Enabled via --marionette
+1508182132076	Marionette	INFO	Listening on port 35714
+1508182132121	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508182132184	Marionette	DEBUG	Register listener.js for window 2147483649
+1508182132238	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508182133012	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508182133013	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508182136473	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508182137347	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508182137534	Marionette	INFO	New connections will no longer be accepted
+1508183722844	geckodriver	INFO	Listening on 127.0.0.1:37852
+1508183723903	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508183724102	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508183724740	Marionette	INFO	Enabled via --marionette
+1508183727200	Marionette	INFO	Listening on port 37841
+1508183727316	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508183727377	Marionette	DEBUG	Register listener.js for window 2147483649
+1508183727414	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508183728089	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508183728090	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508183731489	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508183731899	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508183732574	Marionette	INFO	New connections will no longer be accepted
+[Child 26435] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 26435] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 26435] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 26435] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1508183837652	geckodriver	INFO	Listening on 127.0.0.1:57780
+1508183838721	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508183838923	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508183839530	Marionette	INFO	Enabled via --marionette
+1508183842012	Marionette	INFO	Listening on port 41731
+1508183842121	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508183842189	Marionette	DEBUG	Register listener.js for window 2147483649
+1508183842245	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508183842938	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508183842939	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508183845963	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508183850890	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184003241	geckodriver	INFO	Listening on 127.0.0.1:58611
+1508184004281	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508184004483	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508184005119	Marionette	INFO	Enabled via --marionette
+1508184007529	Marionette	INFO	Listening on port 41735
+1508184007698	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508184007765	Marionette	DEBUG	Register listener.js for window 2147483649
+1508184007799	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508184008631	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508184008631	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+[Parent 26564] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1508184010912	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184011483	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184212751	geckodriver	INFO	Listening on 127.0.0.1:57677
+1508184213860	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508184214066	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508184214628	Marionette	INFO	Enabled via --marionette
+1508184217212	Marionette	INFO	Listening on port 34652
+1508184217355	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508184217410	Marionette	DEBUG	Register listener.js for window 2147483649
+1508184217454	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508184218182	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508184218183	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508184219883	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184220474	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184221401	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184221427	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1508184221427	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1508184221428	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1508184221429	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1508184221430	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1508184221430	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1508184221431	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1508184221431	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1508184221993	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184221997	Marionette	DEBUG	Received DOM event "unload" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184223403	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://store.nike.com/us/en_us/pd/dri-fit-cool-tailwind-stripe-running-shirt/pid-10739300/pgid-11072108"
+1508184223412	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1508184223850	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1508184224232	Marionette	DEBUG	Received DOM event "pageshow" for "https://store.nike.com/us/en_us/pd/dri-fit-cool-tailwind-stripe-running-shirt/pid-10739300/pgid-11072108"
+[Parent 27000] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1508184271011	geckodriver	INFO	Listening on 127.0.0.1:50925
+1508184272105	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508184272302	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508184272923	Marionette	INFO	Enabled via --marionette
+1508184275539	Marionette	INFO	Listening on port 34995
+1508184275625	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508184275682	Marionette	DEBUG	Register listener.js for window 2147483649
+1508184275712	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508184276446	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508184276446	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508184278621	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184278984	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184279816	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184279821	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1508184279821	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1508184279821	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1508184279822	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1508184279844	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1508184279844	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1508184279844	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1508184279845	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1508184280771	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184280775	Marionette	DEBUG	Received DOM event "unload" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184280872	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1508184281402	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184281656	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184281783	Marionette	INFO	New connections will no longer be accepted
+1508184286378	geckodriver	INFO	Listening on 127.0.0.1:43369
+1508184287435	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508184287643	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508184288290	Marionette	INFO	Enabled via --marionette
+1508184290737	Marionette	INFO	Listening on port 46486
+1508184290772	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508184290821	Marionette	DEBUG	Register listener.js for window 2147483649
+1508184290946	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508184291661	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508184291662	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508184293766	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184294191	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184295258	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184295295	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1508184295296	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1508184295297	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1508184295298	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1508184295299	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1508184295300	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1508184295300	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1508184295301	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1508184295301	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1508184295301	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483679"
+1508184295939	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184295941	Marionette	DEBUG	Received DOM event "unload" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184296067	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1508184296539	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184296916	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184297025	Marionette	INFO	New connections will no longer be accepted
+[Child 27408] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 27408] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 27408] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 27408] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1508184328639	geckodriver	INFO	Listening on 127.0.0.1:41989
+1508184329704	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508184329935	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508184330591	Marionette	INFO	Enabled via --marionette
+1508184333123	Marionette	INFO	Listening on port 39351
+1508184333240	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508184333295	Marionette	DEBUG	Register listener.js for window 2147483649
+1508184333347	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508184334179	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508184334180	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508184336267	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184336745	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184337526	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184337552	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1508184337553	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1508184337553	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1508184337554	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1508184337568	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1508184337568	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1508184337568	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1508184338102	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184338103	Marionette	DEBUG	Received DOM event "unload" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184338221	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1508184338740	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184338984	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184339195	Marionette	INFO	New connections will no longer be accepted
+1508184356882	geckodriver	INFO	Listening on 127.0.0.1:35598
+1508184357950	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508184358207	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508184358927	Marionette	INFO	Enabled via --marionette
+1508184361481	Marionette	INFO	Listening on port 35521
+1508184361572	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508184361628	Marionette	DEBUG	Register listener.js for window 2147483649
+1508184361654	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508184362418	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508184362418	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508184364824	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184365943	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184366969	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184367028	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1508184367028	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1508184367029	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1508184367030	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1508184367030	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1508184367031	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1508184367031	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1508184367629	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184367632	Marionette	DEBUG	Received DOM event "unload" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184367792	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1508184368338	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184368571	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184368596	Marionette	INFO	New connections will no longer be accepted
+[Child 27717] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 27717] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 27717] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 27717] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1508184376657	geckodriver	INFO	Listening on 127.0.0.1:49945
+1508184377757	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508184377952	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508184378606	Marionette	INFO	Enabled via --marionette
+1508184381144	Marionette	INFO	Listening on port 35545
+1508184381174	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508184381226	Marionette	DEBUG	Register listener.js for window 2147483649
+1508184381361	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508184382256	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508184382257	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508184384504	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184384692	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184385512	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184385541	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1508184385542	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1508184385542	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1508184385543	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1508184385544	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1508184385544	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1508184385545	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1508184385545	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1508184386341	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184386344	Marionette	DEBUG	Received DOM event "unload" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184386482	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1508184387028	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184387272	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1508184411293	geckodriver	INFO	Listening on 127.0.0.1:59842
+1508184412349	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508184412554	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508184413166	Marionette	INFO	Enabled via --marionette
+1508184415987	Marionette	INFO	Listening on port 40863
+1508184416075	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508184416115	Marionette	DEBUG	Register listener.js for window 2147483649
+1508184416139	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508184416915	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508184416915	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508184423464	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184423815	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184424672	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184424735	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1508184424736	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1508184424736	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1508184424737	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1508184424738	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1508184424738	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1508184424738	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1508184425464	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184425466	Marionette	DEBUG	Received DOM event "unload" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184425607	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1508184425608	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1508184426189	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184426457	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x42000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1508184465552	geckodriver	INFO	Listening on 127.0.0.1:40194
+1508184466645	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508184466852	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508184467506	Marionette	INFO	Enabled via --marionette
+1508184470352	Marionette	INFO	Listening on port 36059
+1508184470380	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508184470444	Marionette	DEBUG	Register listener.js for window 2147483649
+1508184470483	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508184471439	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508184471439	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508184474509	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184474804	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184475592	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184475626	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1508184475626	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1508184475627	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1508184475628	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1508184475630	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1508184475630	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1508184475631	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1508184475631	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1508184476332	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184476334	Marionette	DEBUG	Received DOM event "unload" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184476451	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1508184476990	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184477244	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+[Parent 28084] WARNING: pipe error (41): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1508184529301	geckodriver	INFO	Listening on 127.0.0.1:57985
+1508184530389	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508184530597	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508184531293	Marionette	INFO	Enabled via --marionette
+1508184534529	Marionette	INFO	Listening on port 44369
+1508184534618	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508184534664	Marionette	DEBUG	Register listener.js for window 2147483649
+1508184534683	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508184535349	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508184535349	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508184537385	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184537670	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184538628	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184538670	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1508184538671	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1508184538671	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1508184538672	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1508184538675	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1508184538676	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1508184538676	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1508184538676	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1508184538677	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483679"
+1508184539307	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184539313	Marionette	DEBUG	Received DOM event "unload" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184539401	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1508184539952	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184540160	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1508184693463	geckodriver	INFO	Listening on 127.0.0.1:33477
+1508184694518	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508184694730	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508184695410	Marionette	INFO	Enabled via --marionette
+1508184697930	Marionette	INFO	Listening on port 46849
+1508184698141	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508184698198	Marionette	DEBUG	Register listener.js for window 2147483649
+1508184698231	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508184698809	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508184698810	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508184701050	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184701397	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184702057	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184702094	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1508184702094	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1508184702110	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1508184702111	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1508184702112	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1508184702112	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1508184702822	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184702824	Marionette	DEBUG	Received DOM event "unload" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184702952	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1508184702952	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1508184702953	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1508184703405	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184703877	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184722852	geckodriver	INFO	Listening on 127.0.0.1:32808
+1508184723908	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508184724106	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508184724710	Marionette	INFO	Enabled via --marionette
+1508184727743	Marionette	INFO	Listening on port 41737
+1508184727830	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508184727879	Marionette	DEBUG	Register listener.js for window 2147483649
+1508184727898	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508184728563	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508184728563	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508184735077	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1508184741275	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184742416	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184742440	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483683"
+1508184742441	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1508184742442	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1508184742443	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1508184742444	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1508184742445	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1508184742445	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1508184742446	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1508184742447	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1508184742448	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1508184742448	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1508184742449	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483679"
+1508184743210	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184743215	Marionette	DEBUG	Received DOM event "unload" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184743354	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1508184743863	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184744100	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184785371	geckodriver	INFO	Listening on 127.0.0.1:56166
+1508184786427	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508184786628	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508184787212	Marionette	INFO	Enabled via --marionette
+1508184789894	Marionette	INFO	Listening on port 37870
+1508184790008	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508184790068	Marionette	DEBUG	Register listener.js for window 2147483649
+1508184790126	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508184790872	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508184790873	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508184793092	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184793713	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1508184896628	geckodriver	INFO	Listening on 127.0.0.1:55586
+1508184897715	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508184897911	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508184898535	Marionette	INFO	Enabled via --marionette
+1508184901088	Marionette	INFO	Listening on port 36836
+1508184901136	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508184901206	Marionette	DEBUG	Register listener.js for window 2147483649
+1508184901257	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508184901990	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508184901990	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508184903969	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184904276	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508184905462	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
