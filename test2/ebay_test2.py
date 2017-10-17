@@ -47,4 +47,4 @@ writer = csv.writer(outfile)
 writer.writerows(list_of_rows)
 
 
-# wd.quit()
+wd.quit()

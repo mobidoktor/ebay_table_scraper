@@ -48,3 +48,24 @@
 1508192683888	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 1508192689164	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 1508192694555	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508203518096	geckodriver	INFO	Listening on 127.0.0.1:38875
+1508203519177	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508203519385	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508203520021	Marionette	INFO	Enabled via --marionette
+1508203522525	Marionette	INFO	Listening on port 38422
+1508203522622	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508203522679	Marionette	DEBUG	Register listener.js for window 2147483649
+1508203522710	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508203523651	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508203523651	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508203525699	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-New-Aluminum-Radiator-for-1992-2000-Honda-Civic-1997-00-Acura-EL-L4-1-6L-/232270236265?hash=item3614628a69:g:buUAAOSwOddYx0qA&vxp=mtr"
+1508203529204	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-New-Aluminum-Radiator-for-1992-2000-Honda-Civic-1997-00-Acura-EL-L4-1-6L-/232270236265?hash=item3614628a69:g:buUAAOSwOddYx0qA&vxp=mtr"
+1508203530508	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508203535793	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508203541049	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508203546319	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508203551581	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x41000B,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+[Parent 1169] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
