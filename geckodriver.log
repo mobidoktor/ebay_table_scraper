@@ -892,3 +892,71 @@ JavaScript error: http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-9
 1508184904276	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
 1508184905462	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1508185245897	geckodriver	INFO	Listening on 127.0.0.1:50687
+1508185247012	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508185247215	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508185247844	Marionette	INFO	Enabled via --marionette
+1508185250412	Marionette	INFO	Listening on port 43207
+1508185250444	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508185250493	Marionette	DEBUG	Register listener.js for window 2147483649
+1508185250655	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508185251270	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508185251270	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508185253040	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508185258315	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508185259533	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1508185309980	geckodriver	INFO	Listening on 127.0.0.1:55793
+1508185311081	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508185311288	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508185311879	Marionette	INFO	Enabled via --marionette
+1508185314445	Marionette	INFO	Listening on port 42581
+1508185314590	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508185314654	Marionette	DEBUG	Register listener.js for window 2147483649
+1508185314698	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508185315418	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508185315418	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508185317322	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508185317834	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508185318818	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1508185351158	geckodriver	INFO	Listening on 127.0.0.1:35064
+1508185352208	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508185352402	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508185353030	Marionette	INFO	Enabled via --marionette
+1508185355826	Marionette	INFO	Listening on port 45686
+1508185355964	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508185356014	Marionette	DEBUG	Register listener.js for window 2147483649
+1508185356033	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508185356681	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508185356681	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508185358764	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508185359149	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508185360133	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508185360468	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508185360769	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508185501952	geckodriver	INFO	Listening on 127.0.0.1:36036
+1508185503065	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508185503265	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508185503872	Marionette	INFO	Enabled via --marionette
+1508185506413	Marionette	INFO	Listening on port 43703
+1508185506496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508185506551	Marionette	DEBUG	Register listener.js for window 2147483649
+1508185506581	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508185507349	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508185507350	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508185509558	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508185509889	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.ebay.com/itm/1290-Fits-Honda-Civic-Del-Sol-Radiator-92-98-1-5-1-6-Acura-EL-01-1-7-L4-/201438758818?hash=item2ee6af87a2:g:EQEAAOSw7FRWYZ2d&vxp=mtr"
+1508185510962	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508185516245	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508185521510	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508185526804	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
