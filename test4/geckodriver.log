@@ -1,0 +1,70 @@
+1508342714278	geckodriver	INFO	Listening on 127.0.0.1:37614
+1508342715382	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508342716172	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508342716797	Marionette	INFO	Enabled via --marionette
+1508342719513	Marionette	INFO	Listening on port 45465
+1508342719612	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508342719669	Marionette	DEBUG	Register listener.js for window 2147483649
+1508342719700	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508342720537	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508342720537	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508342722727	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.ebay.com/itm/RADIATOR-FOR-NISSAN-FITS-SENTRA-1-8-L4-4CYL-2346-/271562405382?epid=1357719693&hash=item3f3a617606:g:KYwAAOSwIQdZH1Dc&vxp=mtr"
+1508342725323	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.ebay.com/itm/RADIATOR-FOR-NISSAN-FITS-SENTRA-1-8-L4-4CYL-2346-/271562405382?epid=1357719693&hash=item3f3a617606:g:KYwAAOSwIQdZH1Dc&vxp=mtr"
+1508342726648	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://z.moatads.com/thetradedeskv275874568748/moatad.js#moatClientLevel1=4nvpqyt2&moatClientLevel2=y3i3lsf&moatClientLevel3=c47b23g&moatClientSlicer1=www.ebay.com&zMoatImpressionId=9b47d783-209b-485e-85b3-8751db311ebd&zMoatCachebuster=361924&zMoatPartnerID=gwg88r3&zMoatViewType=0&zMoatCreative=v6nqnk69&zMoatDealID=TRD-11440-00166&zMoatSupplyVendor=rubicon&zMoatSite=www.ebay.com&zMoatTDID=&moatClientLevel4=https%3A%2F%2Finsight.adsrvr.org%2Fenduser%2Fpie%2F%3Fpie%3D20%26vet%3DVIEWABILITY_EVENT_TYPE%26rtb%3DaWlkPTliNDdkNzgzLTIwOWItNDg1ZS04NWIzLTg3NTFkYjMxMWViZCZjcmlkPXY2bnFuazY5JndwPSR7QVVDVElPTl9QUklDRTpCRn0mYWlkPTEmd3BjPVVTRCZzZmU9YzFlZmJjNiZwdWlkPSZ0ZGlkPSZwaWQ9Z3dnODhyMyZhZz1jNDdiMjNnJmNmPSZmcT0wJnRkX3M9d3d3LmViYXkuY29tJnJjYXRzPTI2byZtY2F0PSZtc3RlPSZtZmxkPTImbXNzaT0mbWZzaT1kbnZlNWN0JnVob3c9ODQmYWdzYT0mcmdjbz1Vbml0ZWQlMjBTdGF0ZXMmcmdyZT1GbG9yaWRhJnJnbWU9NTI4JnJnY2k9SGlhbGVhaCZyZ3o9MzMwMTYmc3ZidHRkPTEmZHQ9UEMmb3NmPUxpbnV4Jm9zPU90aGVyJmJyPUZpcmVmb3gmcmxhbmdzPWVuJm1sYW5nPSZzdnBpZD0yMDg3MjQmZGlkPVRSRC0xMTQ0MC0wMDE2NiZyY3h0PU90aGVyJmxhdD0yNS44OTA1MDAmbG9uPS04MC4zMzUzMDAmdG1wYz0mZGFpZD0mdnA9MCZvc2k9Jm9zdj0mYnA9My4yNSZzdnNjaWQ9MjAyMTE3MSZtZGw9RmlyZWZveCUyMC0lMjBMaW51eCZkdXI9Q2pBS0RHTm9ZWEpuWlMxaGJHd3RNU0lnQ1BfX19fX19fX19fX3dFU0UzUjBaRjlrWVhSaFgyVjRZMngxYzJsdmJuTS4mY3JyZWxyPSZpcGw9MTMxMDM4JmF0c3Q9MCZzdj1ydWJpY29u, line 452: TypeError: r.dcsx.engn is not a function
+1508342761654	geckodriver	INFO	Listening on 127.0.0.1:58821
+1508342762730	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508342762939	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508342763565	Marionette	INFO	Enabled via --marionette
+1508342766225	Marionette	INFO	Listening on port 35038
+1508342766251	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508342766317	Marionette	DEBUG	Register listener.js for window 2147483649
+1508342766441	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508342767560	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508342767560	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508342769952	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.ebay.com/itm/RADIATOR-FOR-NISSAN-FITS-SENTRA-1-8-L4-4CYL-2346-/271562405382?epid=1357719693&hash=item3f3a617606:g:KYwAAOSwIQdZH1Dc&vxp=mtr"
+1508342772020	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.ebay.com/itm/RADIATOR-FOR-NISSAN-FITS-SENTRA-1-8-L4-4CYL-2346-/271562405382?epid=1357719693&hash=item3f3a617606:g:KYwAAOSwIQdZH1Dc&vxp=mtr"
+1508342773683	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508342801575	geckodriver	INFO	Listening on 127.0.0.1:39591
+1508342802642	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508342802854	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508342803496	Marionette	INFO	Enabled via --marionette
+1508342806145	Marionette	INFO	Listening on port 40365
+1508342806288	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508342806349	Marionette	DEBUG	Register listener.js for window 2147483649
+1508342806385	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508342807615	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508342807615	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508342810220	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.ebay.com/itm/RADIATOR-FOR-NISSAN-FITS-SENTRA-1-8-L4-4CYL-2346-/271562405382?epid=1357719693&hash=item3f3a617606:g:KYwAAOSwIQdZH1Dc&vxp=mtr"
+1508342811706	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.ebay.com/itm/RADIATOR-FOR-NISSAN-FITS-SENTRA-1-8-L4-4CYL-2346-/271562405382?epid=1357719693&hash=item3f3a617606:g:KYwAAOSwIQdZH1Dc&vxp=mtr"
+1508342813539	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508342828866	geckodriver	INFO	Listening on 127.0.0.1:53840
+1508342829958	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1508342830704	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1508342831406	Marionette	INFO	Enabled via --marionette
+1508342837541	Marionette	INFO	Listening on port 41731
+1508342837591	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508342837648	Marionette	DEBUG	Register listener.js for window 2147483649
+1508342837707	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508342838556	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508342838556	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508342841025	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.ebay.com/itm/RADIATOR-FOR-NISSAN-FITS-SENTRA-1-8-L4-4CYL-2346-/271562405382?epid=1357719693&hash=item3f3a617606:g:KYwAAOSwIQdZH1Dc&vxp=mtr"
+1508342842794	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.ebay.com/itm/RADIATOR-FOR-NISSAN-FITS-SENTRA-1-8-L4-4CYL-2346-/271562405382?epid=1357719693&hash=item3f3a617606:g:KYwAAOSwIQdZH1Dc&vxp=mtr"
+1508342844928	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508342846940	Marionette	INFO	New connections will no longer be accepted
+[Child 9387] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9387] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9387] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 8972] WARNING: pipe error (81): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
