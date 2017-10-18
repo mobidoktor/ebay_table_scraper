@@ -1,3 +1,55 @@
+# from selenium.webdriver.support.ui import WebDriverWait
+# from selenium.webdriver.support import expected_conditions as EC
+# from selenium.webdriver.common.by import By
+# from selenium import webdriver
+
+# # Start the WebDriver and load the page
+# wd = webdriver.Firefox()
+# wd.get('http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty-/201948259311?hash=item2f050de3ef:g:4wgAAOSw4GVYLe8k:sc:ShippingMethodOvernight!33166!US!-1&vxp=mtr')
+
+# # Wait for the dynamically loaded elements to show up
+# WebDriverWait(wd, 10).until(
+#     EC.visibility_of_element_located((By.CLASS_NAME, "tab-content-m"))
+#     )
+
+# # And grab the page HTML source
+# html_page = wd.page_source
+# wd.quit()
+
+# import csv
+# import requests
+
+# from BeautifulSoup import BeautifulSoup
+# soup = BeautifulSoup(html_page)
+# <tbody class="stripe" id="mrc_main_table">
+# print soup.prettify()
+
+# 1st Iteration
+###################################
+# This one should have no errors.
+# table = soup.find('table', attrs={'id': 'w1-38ctbl'})
+# print table.prettify()
+###################################
+
+# 2nd iteration
+# Refining search. Working still. 
+#####################################
+# table = soup.find('table', attrs={'id': 'w1-38ctbl'})
+# tbody = table.find('tbody')
+# print tbody.prettify()
+####################################
+
+# 3rd Iteration targeting rows, stable.
+#####################################
+# table = soup.find('table', attrs={'id': 'w1-38ctbl'})
+# tbody = table.find('tbody')
+
+# for row in tbody.findAll('tr'):
+#     print row.prettify()
+####################################
+
+
+# 4th Iteration with fixes
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
@@ -5,24 +57,24 @@ from selenium import webdriver
 
 # Start the WebDriver and load the page
 wd = webdriver.Firefox()
-wd.get('http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-93-97-EL-1-5-1-6-L4-Lifetime-Warranty/201948259311?_trkparms=aid%3D555018%26algo%3DPL.SIM%26ao%3D2%26asc%3D41375%26meid%3D23143fef5bd549569d352b71285a9c06%26pid%3D100005%26rk%3D1%26rkt%3D6%26sd%3D201438758818&_trksid=p2047675.c100005.m1851')
-
+wd.get('https://www.ebay.com/itm/Radiator-CU1290-26MM-BETTER-COOLING-PERFORMANCE-for-Honda-Civic-Acura-L4-1-6L-/382228301781?epid=79226765&hash=item58fe9507d5:g:xccAAOSw~oFZvD1o&vxp=mtr')
+        # Insert the URL of the ebay page with a searchable table in the above lin between quotes.
 # Wait for the dynamically loaded elements to show up
-WebDriverWait(wd, 20).until(
+WebDriverWait(wd, 10).until(
     EC.visibility_of_element_located((By.CLASS_NAME, "tab-content-m"))
-    )
+    ) 
 
 # And grab the page HTML source
-html_page = wd.page_source
 import time
 import csv
 import requests
 
 from BeautifulSoup import BeautifulSoup
-soup = BeautifulSoup(html_page)
 
 list_of_rows = []
 def scraper():
+    html_page = wd.page_source
+    soup = BeautifulSoup(html_page)
     table = soup.find('table', attrs={'class': 'fTbl'})
     tbody = table.find('tbody')
 
@@ -33,17 +85,19 @@ def scraper():
             list_of_cells.append(text)
         list_of_rows.append(list_of_cells)
     wd.find_element_by_xpath('//*[@title="next page"]').click()
-    time.sleep(5)
+    time.sleep(2)
 
 scraper()
 scraper()
 scraper()
 scraper()
+scraper()
 
 
-outfile = open("./ebay.csv", "wb")
+outfile = open("./fitment.csv", "wb")
 writer = csv.writer(outfile)
 writer.writerows(list_of_rows)
+#Data will be exported to a csv file.
 
-
-# wd.quit()
+wd.quit()
+# This just closes the window so it's not annoying.
