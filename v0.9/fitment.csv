@@ -1,21 +1,61 @@
 Notes,Year,Make,Model,Trim,Engine
-1999,Nissan,Sentra,GXE Sedan 4-Door,1.6L 1597CC 97Cu. In. l4 GAS DOHC Naturally Aspirated
-1999,Nissan,Sentra,XE Sedan 4-Door,1.6L 1597CC 97Cu. In. l4 GAS DOHC Naturally Aspirated
-1998,Nissan,200SX,Base Coupe 2-Door,1.6L 1597CC 97Cu. In. l4 GAS DOHC Naturally Aspirated
-1998,Nissan,200SX,SE Coupe 2-Door,1.6L 1597CC 97Cu. In. l4 GAS DOHC Naturally Aspirated
-1998,Nissan,Sentra,Base Sedan 4-Door,1.6L 1597CC 97Cu. In. l4 GAS DOHC Naturally Aspirated
-1998,Nissan,Sentra,GLE Sedan 4-Door,1.6L 1597CC 97Cu. In. l4 GAS DOHC Naturally Aspirated
-1998,Nissan,Sentra,GXE Sedan 4-Door,1.6L 1597CC 97Cu. In. l4 GAS DOHC Naturally Aspirated
-1998,Nissan,Sentra,XE Sedan 4-Door,1.6L 1597CC 97Cu. In. l4 GAS DOHC Naturally Aspirated
-1997,Nissan,200SX,Base Coupe 2-Door,1.6L 1597CC 97Cu. In. l4 GAS DOHC Naturally Aspirated
-1997,Nissan,200SX,SE Coupe 2-Door,1.6L 1597CC 97Cu. In. l4 GAS DOHC Naturally Aspirated
-1997,Nissan,Sentra,Base Sedan 4-Door,1.6L 1597CC 97Cu. In. l4 GAS DOHC Naturally Aspirated
-1997,Nissan,Sentra,GLE Sedan 4-Door,1.6L 1597CC 97Cu. In. l4 GAS DOHC Naturally Aspirated
-1997,Nissan,Sentra,GXE Sedan 4-Door,1.6L 1597CC 97Cu. In. l4 GAS DOHC Naturally Aspirated
-1997,Nissan,Sentra,XE Sedan 4-Door,1.6L 1597CC 97Cu. In. l4 GAS DOHC Naturally Aspirated
-1996,Nissan,200SX,Base Coupe 2-Door,1.6L 1597CC 97Cu. In. l4 GAS DOHC Naturally Aspirated
-1996,Nissan,200SX,SE Coupe 2-Door,1.6L 1597CC 97Cu. In. l4 GAS DOHC Naturally Aspirated
-1996,Nissan,Sentra,Base Sedan 4-Door,1.6L 1597CC 97Cu. In. l4 GAS DOHC Naturally Aspirated
-1996,Nissan,Sentra,GLE Sedan 4-Door,1.6L 1597CC 97Cu. In. l4 GAS DOHC Naturally Aspirated
-1996,Nissan,Sentra,GXE Sedan 4-Door,1.6L 1597CC 97Cu. In. l4 GAS DOHC Naturally Aspirated
-1996,Nissan,Sentra,XE Sedan 4-Door,1.6L 1597CC 97Cu. In. l4 GAS DOHC Naturally Aspirated
+2012,Nissan,Sentra,Base Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2012,Nissan,Sentra,Custom Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2012,Nissan,Sentra,Elite Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2012,Nissan,Sentra,Emotion Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2012,Nissan,Sentra,S Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2012,Nissan,Sentra,SE-R Sedan 4-Door,2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2012,Nissan,Sentra,SE-R Sedan 4-Door,2.5L 2500CC l4 GAS DOHC Naturally Aspirated
+2012,Nissan,Sentra,SE-R Spec V Sedan 4-Door,2.5L 2500CC l4 GAS DOHC Naturally Aspirated
+2012,Nissan,Sentra,SL Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2012,Nissan,Sentra,SR Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2011,Nissan,Sentra,Base Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2011,Nissan,Sentra,Custom Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2011,Nissan,Sentra,Elite Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2011,Nissan,Sentra,Emotion Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2011,Nissan,Sentra,S Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2011,Nissan,Sentra,SE-R Sedan 4-Door,2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2011,Nissan,Sentra,SE-R Sedan 4-Door,2.5L 2500CC l4 GAS DOHC Naturally Aspirated
+2011,Nissan,Sentra,SE-R Spec V Sedan 4-Door,2.5L 2500CC l4 GAS DOHC Naturally Aspirated
+2011,Nissan,Sentra,SL Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2011,Nissan,Sentra,SR Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+Notes,Year,Make,Model,Trim,Engine
+2010,Nissan,Sentra,Base Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2010,Nissan,Sentra,Custom Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2010,Nissan,Sentra,Emotion Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2010,Nissan,Sentra,Luxury Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2010,Nissan,Sentra,Premium Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2010,Nissan,Sentra,S Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2010,Nissan,Sentra,SE-R Sedan 4-Door,2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2010,Nissan,Sentra,SE-R Sedan 4-Door,2.5L 2500CC l4 GAS DOHC Naturally Aspirated
+2010,Nissan,Sentra,SE-R Spec V Sedan 4-Door,2.5L 2500CC l4 GAS DOHC Naturally Aspirated
+2010,Nissan,Sentra,SL Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2010,Nissan,Sentra,SR Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2009,Nissan,Sentra,Base Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2009,Nissan,Sentra,Custom Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2009,Nissan,Sentra,Emotion Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2009,Nissan,Sentra,Luxury Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2009,Nissan,Sentra,Premium Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2009,Nissan,Sentra,S Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2009,Nissan,Sentra,SE-R Sedan 4-Door,2.5L 2500CC l4 GAS DOHC Naturally Aspirated
+2009,Nissan,Sentra,SE-R Spec V Sedan 4-Door,2.5L 2500CC l4 GAS DOHC Naturally Aspirated
+2009,Nissan,Sentra,SL Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+Notes,Year,Make,Model,Trim,Engine
+2009,Nissan,Sentra,SR Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2008,Nissan,Sentra,Base Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2008,Nissan,Sentra,Custom Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2008,Nissan,Sentra,Emotion Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2008,Nissan,Sentra,Luxury Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2008,Nissan,Sentra,Premium Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2008,Nissan,Sentra,S Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2008,Nissan,Sentra,SE-R Sedan 4-Door,2.5L 2500CC l4 GAS DOHC Naturally Aspirated
+2008,Nissan,Sentra,SE-R Spec V Sedan 4-Door,2.5L 2500CC l4 GAS DOHC Naturally Aspirated
+2008,Nissan,Sentra,SL Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2007,Nissan,Sentra,Base Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2007,Nissan,Sentra,Custom Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2007,Nissan,Sentra,Emotion Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2007,Nissan,Sentra,Premium Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2007,Nissan,Sentra,S Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2007,Nissan,Sentra,SE-R Sedan 4-Door,2.5L 2500CC l4 GAS DOHC Naturally Aspirated
+2007,Nissan,Sentra,SE-R Spec V Sedan 4-Door,2.5L 2500CC l4 GAS DOHC Naturally Aspirated
+2007,Nissan,Sentra,SL Sedan 4-Door,2.0L 1997CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
