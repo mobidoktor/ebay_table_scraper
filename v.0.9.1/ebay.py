@@ -62,6 +62,6 @@ outfile = open("./fitment.csv", "wb")
 writer = csv.writer(outfile)
 writer.writerows(list_of_rows)
 # Data will be exported to a csv file.
-print "This Asian dude I stole his girl and now he got dat Koji beef!"
+print "Oh Boy!"
 wd.quit()
 # This just closes the window so it's not annoying.
