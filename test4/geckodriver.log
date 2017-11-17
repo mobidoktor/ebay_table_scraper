@@ -68,3 +68,21 @@ IPDL protocol error: Handler returned error code!
 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
 
 [Parent 8972] WARNING: pipe error (81): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1510868089401	geckodriver	INFO	Listening on 127.0.0.1:33187
+1510868090468	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1510868090678	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510868091347	Marionette	INFO	Enabled via --marionette
+1510868093944	Marionette	INFO	Listening on port 42649
+1510868094008	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510868094068	Marionette	DEBUG	Register listener.js for window 2147483649
+1510868094134	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510868094968	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510868094969	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510868097205	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.ebay.com/itm/322887366109"
+1510868098195	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.ebay.com/itm/322887366109"
+1510868134166	Marionette	DEBUG	Register listener.js for window 4294967297
+1510868151361	Marionette	DEBUG	Register listener.js for window 6442450945
+[Parent 25225] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

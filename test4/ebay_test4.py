@@ -57,7 +57,7 @@ from selenium import webdriver
 
 # Start the WebDriver and load the page
 wd = webdriver.Firefox()
-wd.get('https://www.ebay.com/itm/RADIATOR-FOR-NISSAN-FITS-SENTRA-1-8-L4-4CYL-2346-/271562405382?epid=1357719693&hash=item3f3a617606:g:KYwAAOSwIQdZH1Dc&vxp=mtr')
+wd.get('https://www.ebay.com/itm/322887366109')
         # Insert the URL of the ebay page with a searchable table in the above lin between quotes.
 # Wait for the dynamically loaded elements to show up
 WebDriverWait(wd, 10).until(

@@ -999,3 +999,25 @@ JavaScript error: http://www.ebay.com/itm/New-Radiator-For-Civic-92-00-Del-Sol-9
 [Child 541] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
 [Child 541] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
 [Child 541] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1510365762725	geckodriver	INFO	Listening on 127.0.0.1:49661
+1510365763917	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1510365767813	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510365769859	Marionette	INFO	Enabled via --marionette
+1510365776542	Marionette	INFO	Listening on port 33201
+1510365776607	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510365776670	Marionette	DEBUG	Register listener.js for window 2147483649
+1510365776749	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510365777613	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510365777613	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510365780271	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.ebay.com/itm/New-Radiator-For-Honda-Civic-92-00-Del-Sol-93-97-Acura-El-97-00-1-5-1-6-L4/130600023842?hash=item1e685e3722:g:JWYAAOSwanRXhZF1&vxp=mtr"
+1510365785732	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.ebay.com/itm/New-Radiator-For-Honda-Civic-92-00-Del-Sol-93-97-Acura-El-97-00-1-5-1-6-L4/130600023842?hash=item1e685e3722:g:JWYAAOSwanRXhZF1&vxp=mtr"
+1510365791349	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510365793883	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510365796401	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510365798910	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510365801437	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510365803475	Marionette	INFO	New connections will no longer be accepted
+[Child 3189] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 3189] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 3189] WARNING: pipe error (21): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 3189] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-l1g98U/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
