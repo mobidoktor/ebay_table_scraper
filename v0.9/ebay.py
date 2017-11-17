@@ -25,27 +25,22 @@ def scraper():
     soup = BeautifulSoup(html_page, "lxml")
     table = soup.find('table','fTbl')   
     rows = table.find_all('tr')
-    print rows
-# for row in rows:
-#     cols = row.find_all('td')
-#     cols = [ele.text.strip() for ele in cols]
-#     list_of_rows.append([ele for ele in cols if ele]) # Get rid of empty values
-
-    # if next_arrow != next_arrow:
-    #     print("No, next arrow available. Continuing normal processes.") 
-    # else:
-    #     next_arrow.click()
-    #     time.sleep(2)
-
-
+    next_arrow = wd.find_element_by_xpath('//*[@title="next page"]')
+    for row in rows:
+        cols = row.find_all('td')
+        cols = [ele.text.strip() for ele in cols]
+        list_of_rows.append([ele for ele in cols if ele]) # Get rid of empty values
+    next_arrow.click()
+    time.sleep(2)
 scraper()
+print list_of_rows
 
 
 
-# outfile = open("./fitment.csv", "wb")
-# writer = csv.writer(outfile)
-# writer.writerows(list_of_rows)
-# #Data will be exported to a csv file.
+outfile = open("./fitment.csv", "wb")
+writer = csv.writer(outfile)
+writer.writerows(list_of_rows)
+#Data will be exported to a csv file.
 
-wd.quit()
+# wd.quit()
 # This just closes the window so it's not annoying.
